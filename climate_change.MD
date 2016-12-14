@@ -1,4 +1,4 @@
-## To study the relationship between average global temperature and several other factors.
+# To study the relationship between average global temperature and several other factors.
 The available variables include:
 
 #Year: the observation year.

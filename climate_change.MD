@@ -1,11 +1,9 @@
 # To study the relationship between average global temperature and several other factors.
 The available variables include:
-** Year**
-the observation year.
-**Month**
-the observation month.
-**Temp**
-the differece in degrees Celsius between the average global temperature in that period and a reference value. 
+- **Year** the observation year.
+- **Month** the observation month.
+- **Temp** the differece in degrees Celsius between the average global temperature in that period and a reference value. 
+
 #CO2, N2O, CH4, CFC.11, CFC.12
 atmospheric concentrations of carbon dioxide (CO2), nitrous oxide (N2O), methane  (CH4), 
 trichlorofluoromethane (CCl3F; commonly referred to as CFC-11) and dichlorodifluoromethane (CCl2F2; commonly referred to as CFC-12), 

@@ -1,4 +1,4 @@
-# Climate-change
+ #Climate-change
 Linear regression model to predict the Temperature using multiple independent variables 
 
 #Subsetting data to build model
